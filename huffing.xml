@@ -1,207 +1,392 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" version="2.0">
-  <channel>
-    <title>Travel - Top Destinations, Vacation Ideas</title>
-    <link>https://www.huffpost.com/life/travel</link>
-    <description>How to vacation well — from planning your time off to finding flight deals and hotel hacks — on a real person's budget.</description>
-    <language>en-US</language>
-    <item>
-      <title>Venice Is About To Get A Little More Expensive For Day-Trippers</title>
-      <link>https://www.huffpost.com/entry/venice-italy-tourist-tax_l_5c61cb03e4b071a3b765622c</link>
-      <description>The fee is targeting the 15 million people who visit Venice each year but only stay for a day.</description>
-      <content:encoded>The fee is targeting the 15 million people who visit Venice each year but only stay for a day.</content:encoded>
-      <enclosure url="http://img.huffingtonpost.com/asset/5c61cc29360000150f6a27d5.jpeg?ops=224_126" type="image/jpeg" />
-      <pubDate>Mon, 11 Feb 2019 20:16:27 GMT</pubDate>
-      <guid isPermaLink="false">https://www.huffpost.com/entry/venice-italy-tourist-tax_l_5c61cb03e4b071a3b765622c</guid>
-    </item>
-    <item>
-      <title>This Company Says It’s The Ethical Alternative To Airbnb.</title>
-      <link>https://www.huffpost.com/entry/airbnb-affordable-housing-gentrification-tourism-fairbnb_us_5c5949c3e4b00187b554828d</link>
-      <description>Italy-based Fairbnb intends to invest half its profits back into the community.</description>
-      <content:encoded>Italy-based Fairbnb intends to invest half its profits back into the community.</content:encoded>
-      <enclosure url="http://img.huffingtonpost.com/asset/5c594edb250000c401c596cf.jpeg?cache=idpetjelbo&amp;ops=224_126" type="image/jpeg" />
-      <pubDate>Wed, 06 Feb 2019 10:45:14 GMT</pubDate>
-      <guid isPermaLink="false">https://www.huffpost.com/entry/airbnb-affordable-housing-gentrification-tourism-fairbnb_us_5c5949c3e4b00187b554828d</guid>
-    </item>
-    <item>
-      <title>6 Places To Go In Italy That Aren’t Rome</title>
-      <link>https://www.huffpost.com/entry/best-places-visit-italy_n_5c409175e4b0a8dbe16e643f</link>
-      <description>These destinations deserve a spot on your travel list, too.</description>
-      <content:encoded>These destinations deserve a spot on your travel list, too.</content:encoded>
-      <enclosure url="http://img.huffingtonpost.com/asset/5c40990a360000df02680b3f.jpeg?cache=tcrv9ffmbb&amp;ops=224_126" type="image/jpeg" />
-      <pubDate>Fri, 18 Jan 2019 17:30:25 GMT</pubDate>
-      <guid isPermaLink="false">https://www.huffpost.com/entry/best-places-visit-italy_n_5c409175e4b0a8dbe16e643f</guid>
-    </item>
-    <item>
-      <title>3 Places To Travel On A Budget This Winter</title>
-      <link>https://www.huffpost.com/entry/where-to-travel-on-a-budget-this-winter_n_5c34a32fe4b05d4e96bc8b9b</link>
-      <description>The off-season means cheaper flights and more hotel availability.</description>
-      <content:encoded>The off-season means cheaper flights and more hotel availability.</content:encoded>
-      <enclosure url="http://img.huffingtonpost.com/asset/5c34a8c93c00001406101c17.jpeg?ops=224_126" type="image/jpeg" />
-      <pubDate>Tue, 08 Jan 2019 13:53:42 GMT</pubDate>
-      <guid isPermaLink="false">https://www.huffpost.com/entry/where-to-travel-on-a-budget-this-winter_n_5c34a32fe4b05d4e96bc8b9b</guid>
-    </item>
-    <item>
-      <title>Meghan Markle ‘Cannot Live Without’ This One Thing While Traveling</title>
-      <link>https://www.huffpost.com/entry/meghan-markle-travel-tips_n_5c339778e4b09b02cb32bacf</link>
-      <description>A handy guide to the royal's travel recommendations over the years.</description>
-      <content:encoded>A handy guide to the royal's travel recommendations over the years.</content:encoded>
-      <enclosure url="http://img.huffingtonpost.com/asset/5c3397a3210000e109cad86a.jpeg?cache=eagiezj158&amp;ops=224_126" type="image/jpeg" />
-      <pubDate>Tue, 08 Jan 2019 21:09:54 GMT</pubDate>
-      <guid isPermaLink="false">https://www.huffpost.com/entry/meghan-markle-travel-tips_n_5c339778e4b09b02cb32bacf</guid>
-    </item>
-    <item>
-      <title>Zooey Deschanel Shares Her Go-To Travel Hack For Parents</title>
-      <link>https://www.huffpost.com/entry/zooey-deschanel-sustainable-travel_l_5c51b269e4b00906b26f7c7c</link>
-      <description>Keep this in mind before your next family vacation.</description>
-      <content:encoded>Keep this in mind before your next family vacation.</content:encoded>
-      <enclosure url="http://img.huffingtonpost.com/asset/5c51c7702400000d02486d2c.jpeg?cache=bprh2bso3m&amp;ops=224_126" type="image/jpeg" />
-      <pubDate>Wed, 30 Jan 2019 19:44:46 GMT</pubDate>
-      <guid isPermaLink="false">https://www.huffpost.com/entry/zooey-deschanel-sustainable-travel_l_5c51b269e4b00906b26f7c7c</guid>
-    </item>
-    <item>
-      <title>There’s An Explanation For Why You Always Get Sick On Vacation</title>
-      <link>https://www.huffpost.com/entry/why-you-get-sick-on-vacation_n_5c2ce145e4b0407e908734fd</link>
-      <description>A breakdown of why your body shuts down on vacation, and what to do about it.</description>
-      <content:encoded>A breakdown of why your body shuts down on vacation, and what to do about it.</content:encoded>
-      <enclosure url="http://img.huffingtonpost.com/asset/5c2e62271f0000cc0826b916.jpeg?ops=224_126" type="image/jpeg" />
-      <pubDate>Fri, 04 Jan 2019 18:00:55 GMT</pubDate>
-      <guid isPermaLink="false">https://www.huffpost.com/entry/why-you-get-sick-on-vacation_n_5c2ce145e4b0407e908734fd</guid>
-    </item>
-    <item>
-      <title>8 Compact Strollers That Will Fit In An Overhead Compartment</title>
-      <link>https://www.huffpost.com/entry/compact-strollers-that-fit-in-overhead-compartment_n_5b2402f4e4b0f9178a9ce3f4</link>
-      <description>Compact strollers perfect for travel.</description>
-      <content:encoded>Compact strollers perfect for travel.</content:encoded>
-      <enclosure url="http://img.huffingtonpost.com/asset/5b240a622200003000eeb9d8.jpeg?ops=224_126" type="image/jpeg" />
-      <pubDate>Fri, 15 Jun 2018 20:20:07 GMT</pubDate>
-      <guid isPermaLink="false">https://www.huffpost.com/entry/compact-strollers-that-fit-in-overhead-compartment_n_5b2402f4e4b0f9178a9ce3f4</guid>
-    </item>
-    <item>
-      <title>Multipurpose Beauty Products That’ll Save Space In Your Carry-On</title>
-      <link>https://www.huffpost.com/entry/multipurpose-beauty-products-for-travel_n_5b7d70b8e4b0cd327df8adfc</link>
-      <description>Simplify your beauty routine *and* save space in your makeup bag to boot.</description>
-      <content:encoded>Simplify your beauty routine *and* save space in your makeup bag to boot.</content:encoded>
-      <enclosure url="http://img.huffingtonpost.com/asset/5b7d7129200000dd0237a494.jpeg?cache=5uhgccan3u&amp;ops=224_126" type="image/jpeg" />
-      <pubDate>Wed, 22 Aug 2018 16:04:30 GMT</pubDate>
-      <guid isPermaLink="false">https://www.huffpost.com/entry/multipurpose-beauty-products-for-travel_n_5b7d70b8e4b0cd327df8adfc</guid>
-    </item>
-    <item>
-      <title>Discreet Sex Toys That’ll Make It Through TSA</title>
-      <link>https://www.huffpost.com/entry/discreet-sex-toys-for-travel_n_5b1ecee7e4b0bbb7a0e0361a</link>
-      <description>Avoid an awkward conversation with a TSA agent.</description>
-      <content:encoded>Avoid an awkward conversation with a TSA agent.</content:encoded>
-      <enclosure url="http://img.huffingtonpost.com/asset/5b1ed1d21a0000c704ce1364.png?cache=e8qmakrch9&amp;ops=224_126" type="image/jpeg" />
-      <pubDate>Mon, 11 Jun 2018 20:42:42 GMT</pubDate>
-      <guid isPermaLink="false">https://www.huffpost.com/entry/discreet-sex-toys-for-travel_n_5b1ecee7e4b0bbb7a0e0361a</guid>
-    </item>
-    <item>
-      <title>10 Of The Best Airbnbs In Carolina, Puerto Rico</title>
-      <link>https://www.huffpost.com/entry/10-of-the-best-airbnbs-in-carolina-puerto-rico_l_5c6d84f8e4b0e37a1ed3f155</link>
-      <description>Airbnb bookings in Carolina, Puerto Rico, have increased more than 600 percent from 2018.</description>
-      <content:encoded>Airbnb bookings in Carolina, Puerto Rico, have increased more than 600 percent from 2018.</content:encoded>
-      <enclosure url="http://img.huffingtonpost.com/asset/5c6da444250000580480a6c2.jpeg?cache=jcfvmoqxcw&amp;ops=224_126" type="image/jpeg" />
-      <pubDate>Wed, 20 Feb 2019 19:56:50 GMT</pubDate>
-      <guid isPermaLink="false">https://www.huffpost.com/entry/10-of-the-best-airbnbs-in-carolina-puerto-rico_l_5c6d84f8e4b0e37a1ed3f155</guid>
-    </item>
-    <item>
-      <title>10 Of The Best Airbnbs In Monterrey, Mexico</title>
-      <link>https://www.huffpost.com/entry/10-of-the-best-airbnbs-in-monterrey-mexico_l_5c6d750be4b0f40774caf6f8</link>
-      <description>Fringed by mountains and full of culture, it's a destination worth adding to your list.</description>
-      <content:encoded>Fringed by mountains and full of culture, it's a destination worth adding to your list.</content:encoded>
-      <enclosure url="http://img.huffingtonpost.com/asset/5c6d82872600005c03fddbfb.jpeg?ops=224_126" type="image/jpeg" />
-      <pubDate>Wed, 20 Feb 2019 19:39:15 GMT</pubDate>
-      <guid isPermaLink="false">https://www.huffpost.com/entry/10-of-the-best-airbnbs-in-monterrey-mexico_l_5c6d750be4b0f40774caf6f8</guid>
-    </item>
-    <item>
-      <title>Is Away Luggage Really Worth It?</title>
-      <link>https://www.huffpost.com/entry/is-away-luggage-worth-it_l_5c586578e4b00187b5539bb9</link>
-      <description>This is the best carry-on suitcase I've ever used.</description>
-      <content:encoded>This is the best carry-on suitcase I've ever used.</content:encoded>
-      <enclosure url="http://img.huffingtonpost.com/asset/5c589f3c24000096019fa69a.png?ops=224_126" type="image/jpeg" />
-      <pubDate>Mon, 04 Feb 2019 22:40:28 GMT</pubDate>
-      <guid isPermaLink="false">https://www.huffpost.com/entry/is-away-luggage-worth-it_l_5c586578e4b00187b5539bb9</guid>
-    </item>
-    <item>
-      <title>Why Your Eiffel Tower Photos May Be Illegal</title>
-      <link>https://www.huffpost.com/entry/illegal-photos-eiffel-tower-night_l_5c38bf78e4b0c469d76d9eb1</link>
-      <description>Nighttime pictures of the Paris monument can violate French law.</description>
-      <content:encoded>Nighttime pictures of the Paris monument can violate French law.</content:encoded>
-      <enclosure url="http://img.huffingtonpost.com/asset/5c549ab12600004502faf136.jpeg?cache=l9kqjwjwgr&amp;ops=224_126" type="image/jpeg" />
-      <pubDate>Fri, 01 Feb 2019 21:41:59 GMT</pubDate>
-      <guid isPermaLink="false">https://www.huffpost.com/entry/illegal-photos-eiffel-tower-night_l_5c38bf78e4b0c469d76d9eb1</guid>
-    </item>
-    <item>
-      <title>The Most Romantic Hotels In The World In 2019, Revealed</title>
-      <link>https://www.huffpost.com/entry/the-most-romantic-hotels-in-the-world-in-2019-revealed_l_5c488862e4b025aa26bf2552</link>
-      <description>One U.S. hotel made the list.</description>
-      <content:encoded>One U.S. hotel made the list.</content:encoded>
-      <enclosure url="http://img.huffingtonpost.com/asset/5c48b1fd25000031007db812.png?ops=224_126" type="image/jpeg" />
-      <pubDate>Wed, 23 Jan 2019 19:12:37 GMT</pubDate>
-      <guid isPermaLink="false">https://www.huffpost.com/entry/the-most-romantic-hotels-in-the-world-in-2019-revealed_l_5c488862e4b025aa26bf2552</guid>
-    </item>
-    <item>
-      <title>The Best Hotels In The World In 2019, According To Travelers</title>
-      <link>https://www.huffpost.com/entry/the-best-hotels-in-the-world-in-2019-revealed_l_5c478b44e4b083c46d6365b8</link>
-      <description>Get ready to trigger your wanderlust.</description>
-      <content:encoded>Get ready to trigger your wanderlust.</content:encoded>
-      <enclosure url="http://img.huffingtonpost.com/asset/5c478f593600006e06680d28.png?ops=224_126" type="image/jpeg" />
-      <pubDate>Wed, 23 Jan 2019 11:00:28 GMT</pubDate>
-      <guid isPermaLink="false">https://www.huffpost.com/entry/the-best-hotels-in-the-world-in-2019-revealed_l_5c478b44e4b083c46d6365b8</guid>
-    </item>
-    <item>
-      <title>15 State Parks You Can Visit During The Government Shutdown</title>
-      <link>https://www.huffpost.com/entry/state-parks-government-shutdown_n_5c3cafd1e4b0e0baf53f9cac</link>
-      <description>While many national parks have been forced to close, there are great state-run alternatives.</description>
-      <content:encoded>While many national parks have been forced to close, there are great state-run alternatives.</content:encoded>
-      <enclosure url="http://img.huffingtonpost.com/asset/5c3cfbd83600004f0068050b.jpeg?cache=vz3hc4ntbg&amp;ops=224_126" type="image/jpeg" />
-      <pubDate>Tue, 15 Jan 2019 21:37:00 GMT</pubDate>
-      <guid isPermaLink="false">https://www.huffpost.com/entry/state-parks-government-shutdown_n_5c3cafd1e4b0e0baf53f9cac</guid>
-    </item>
-    <item>
-      <title>Is January Really The Best Month To Book Cheap Flights?</title>
-      <link>https://www.huffpost.com/entry/january-best-month-cheap-flights_n_5c37cca1e4b0c469d76c86f6</link>
-      <description>Here's what you should consider to make sure you're really getting the best travel deal.</description>
-      <content:encoded>Here's what you should consider to make sure you're really getting the best travel deal.</content:encoded>
-      <enclosure url="http://img.huffingtonpost.com/asset/5c38b1093b00003300688982.jpeg?cache=5yfb5t7kit&amp;ops=224_126" type="image/jpeg" />
-      <pubDate>Fri, 11 Jan 2019 17:21:32 GMT</pubDate>
-      <guid isPermaLink="false">https://www.huffpost.com/entry/january-best-month-cheap-flights_n_5c37cca1e4b0c469d76c86f6</guid>
-    </item>
-    <item>
-      <title>Disneyland Fans Are Not Happy About The Latest Price Hikes</title>
-      <link>https://www.huffpost.com/entry/disneyland-price-increase-outrage_n_5c37729de4b05cb31c4058b2</link>
-      <description>But it's not clear that raising ticket costs will keep people away from the Anaheim, California, park.</description>
-      <content:encoded>But it's not clear that raising ticket costs will keep people away from the Anaheim, California, park.</content:encoded>
-      <enclosure url="http://img.huffingtonpost.com/asset/5c37a4a623000030001f8c06.jpeg?cache=s04f2xc2cw&amp;ops=224_126" type="image/jpeg" />
-      <pubDate>Thu, 10 Jan 2019 23:30:56 GMT</pubDate>
-      <guid isPermaLink="false">https://www.huffpost.com/entry/disneyland-price-increase-outrage_n_5c37729de4b05cb31c4058b2</guid>
-    </item>
-    <item>
-      <title>Here's How You Can Book A Trip For Just $1</title>
-      <link>https://www.huffpost.com/entry/how-you-can-book-a-trip-for-just-1_n_5c2f7ef2e4b0407e908b031b</link>
-      <description>Book now, pay later.</description>
-      <content:encoded>Book now, pay later.</content:encoded>
-      <enclosure url="http://img.huffingtonpost.com/asset/5c2fc21923000033003ca5ed.jpeg?ops=224_126" type="image/jpeg" />
-      <pubDate>Fri, 04 Jan 2019 20:40:15 GMT</pubDate>
-      <guid isPermaLink="false">https://www.huffpost.com/entry/how-you-can-book-a-trip-for-just-1_n_5c2f7ef2e4b0407e908b031b</guid>
-    </item>
-    <item>
-      <title>FYI, Direct Flights And Nonstop Flights Are Different</title>
-      <link>https://www.huffpost.com/entry/direct-flight-nontstop-flight-difference_n_5bfdab51e4b0a46950dcdfb8</link>
-      <description>Understanding these two terms can help you make better booking choices.</description>
-      <content:encoded>Understanding these two terms can help you make better booking choices.</content:encoded>
-      <enclosure url="http://img.huffingtonpost.com/asset/5bfd9a1a1d00002c02313664.jpeg?cache=ra2bbids2t&amp;ops=224_126" type="image/jpeg" />
-      <pubDate>Thu, 29 Nov 2018 10:45:14 GMT</pubDate>
-      <guid isPermaLink="false">https://www.huffpost.com/entry/direct-flight-nontstop-flight-difference_n_5bfdab51e4b0a46950dcdfb8</guid>
-    </item>
-    <item>
-      <title>Travel Deals Tuesday: 2018 Black Friday And Cyber Monday Travel Deals</title>
-      <link>https://www.huffpost.com/entry/black-friday-cyber-monday-airline-travel-deals_n_5bef2846e4b0f32bd5898f1d</link>
-      <description>Best Travel Deals on Black Friday, Cyber Monday and Travel Deals Tuesday ✈️</description>
-      <content:encoded>Best Travel Deals on Black Friday, Cyber Monday and Travel Deals Tuesday ✈️</content:encoded>
-      <enclosure url="http://img.huffingtonpost.com/asset/5bf1734a240000040499b95b.jpeg?ops=224_126" type="image/jpeg" />
-      <pubDate>Mon, 19 Nov 2018 19:09:56 GMT</pubDate>
-      <guid isPermaLink="false">https://www.huffpost.com/entry/black-friday-cyber-monday-airline-travel-deals_n_5bef2846e4b0f32bd5898f1d</guid>
-    </item>
-  </channel>
-</rss>
+<!--?xml version="1.0" encoding="UTF-8"?-->
+<html>
+ <head></head>
+ <body>
+  <rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" version="2.0"> 
+   <channel> 
+    <title>Travel - Top Destinations, Vacation Ideas</title> 
+    <link>https://www.huffpost.com/life/travel 
+    <description>
+     How to vacation well — from planning your time off to finding flight deals and hotel hacks — on a real person's budget.
+    </description> 
+    <language>
+     en-US
+    </language>  
+    <item> 
+     <title>Venice Is About To Get A Little More Expensive For Day-Trippers</title> 
+     <link>https://www.huffpost.com/entry/venice-italy-tourist-tax_l_5c61cb03e4b071a3b765622c 
+     <description>
+      The fee is targeting the 15 million people who visit Venice each year but only stay for a day.
+     </description> 
+     <content:encoded>
+      The fee is targeting the 15 million people who visit Venice each year but only stay for a day.
+     </content:encoded> 
+     <enclosure url="http://img.huffingtonpost.com/asset/5c61cc29360000150f6a27d5.jpeg?ops=224_126" type="image/jpeg" /> 
+     <pubdate>
+      Mon, 11 Feb 2019 20:16:27 GMT
+     </pubdate> 
+     <guid ispermalink="false">
+      https://www.huffpost.com/entry/venice-italy-tourist-tax_l_5c61cb03e4b071a3b765622c
+     </guid>  
+    </item> 
+    <item> 
+     <title>This Company Says It’s The Ethical Alternative To Airbnb.</title> 
+     <link>https://www.huffpost.com/entry/airbnb-affordable-housing-gentrification-tourism-fairbnb_us_5c5949c3e4b00187b554828d 
+     <description>
+      Italy-based Fairbnb intends to invest half its profits back into the community.
+     </description> 
+     <content:encoded>
+      Italy-based Fairbnb intends to invest half its profits back into the community.
+     </content:encoded> 
+     <enclosure url="http://img.huffingtonpost.com/asset/5c594edb250000c401c596cf.jpeg?cache=idpetjelbo&amp;ops=224_126" type="image/jpeg" /> 
+     <pubdate>
+      Wed, 06 Feb 2019 10:45:14 GMT
+     </pubdate> 
+     <guid ispermalink="false">
+      https://www.huffpost.com/entry/airbnb-affordable-housing-gentrification-tourism-fairbnb_us_5c5949c3e4b00187b554828d
+     </guid>  
+    </item> 
+    <item> 
+     <title>6 Places To Go In Italy That Aren’t Rome</title> 
+     <link>https://www.huffpost.com/entry/best-places-visit-italy_n_5c409175e4b0a8dbe16e643f 
+     <description>
+      These destinations deserve a spot on your travel list, too.
+     </description> 
+     <content:encoded>
+      These destinations deserve a spot on your travel list, too.
+     </content:encoded> 
+     <enclosure url="http://img.huffingtonpost.com/asset/5c40990a360000df02680b3f.jpeg?cache=tcrv9ffmbb&amp;ops=224_126" type="image/jpeg" /> 
+     <pubdate>
+      Fri, 18 Jan 2019 17:30:25 GMT
+     </pubdate> 
+     <guid ispermalink="false">
+      https://www.huffpost.com/entry/best-places-visit-italy_n_5c409175e4b0a8dbe16e643f
+     </guid>  
+    </item> 
+    <item> 
+     <title>3 Places To Travel On A Budget This Winter</title> 
+     <link>https://www.huffpost.com/entry/where-to-travel-on-a-budget-this-winter_n_5c34a32fe4b05d4e96bc8b9b 
+     <description>
+      The off-season means cheaper flights and more hotel availability.
+     </description> 
+     <content:encoded>
+      The off-season means cheaper flights and more hotel availability.
+     </content:encoded> 
+     <enclosure url="http://img.huffingtonpost.com/asset/5c34a8c93c00001406101c17.jpeg?ops=224_126" type="image/jpeg" /> 
+     <pubdate>
+      Tue, 08 Jan 2019 13:53:42 GMT
+     </pubdate> 
+     <guid ispermalink="false">
+      https://www.huffpost.com/entry/where-to-travel-on-a-budget-this-winter_n_5c34a32fe4b05d4e96bc8b9b
+     </guid>  
+    </item> 
+    <item> 
+     <title>Meghan Markle ‘Cannot Live Without’ This One Thing While Traveling</title> 
+     <link>https://www.huffpost.com/entry/meghan-markle-travel-tips_n_5c339778e4b09b02cb32bacf 
+     <description>
+      A handy guide to the royal's travel recommendations over the years.
+     </description> 
+     <content:encoded>
+      A handy guide to the royal's travel recommendations over the years.
+     </content:encoded> 
+     <enclosure url="http://img.huffingtonpost.com/asset/5c3397a3210000e109cad86a.jpeg?cache=eagiezj158&amp;ops=224_126" type="image/jpeg" /> 
+     <pubdate>
+      Tue, 08 Jan 2019 21:09:54 GMT
+     </pubdate> 
+     <guid ispermalink="false">
+      https://www.huffpost.com/entry/meghan-markle-travel-tips_n_5c339778e4b09b02cb32bacf
+     </guid>  
+    </item> 
+    <item> 
+     <title>Zooey Deschanel Shares Her Go-To Travel Hack For Parents</title> 
+     <link>https://www.huffpost.com/entry/zooey-deschanel-sustainable-travel_l_5c51b269e4b00906b26f7c7c 
+     <description>
+      Keep this in mind before your next family vacation.
+     </description> 
+     <content:encoded>
+      Keep this in mind before your next family vacation.
+     </content:encoded> 
+     <enclosure url="http://img.huffingtonpost.com/asset/5c51c7702400000d02486d2c.jpeg?cache=bprh2bso3m&amp;ops=224_126" type="image/jpeg" /> 
+     <pubdate>
+      Wed, 30 Jan 2019 19:44:46 GMT
+     </pubdate> 
+     <guid ispermalink="false">
+      https://www.huffpost.com/entry/zooey-deschanel-sustainable-travel_l_5c51b269e4b00906b26f7c7c
+     </guid>  
+    </item> 
+    <item> 
+     <title>There’s An Explanation For Why You Always Get Sick On Vacation</title> 
+     <link>https://www.huffpost.com/entry/why-you-get-sick-on-vacation_n_5c2ce145e4b0407e908734fd 
+     <description>
+      A breakdown of why your body shuts down on vacation, and what to do about it.
+     </description> 
+     <content:encoded>
+      A breakdown of why your body shuts down on vacation, and what to do about it.
+     </content:encoded> 
+     <enclosure url="http://img.huffingtonpost.com/asset/5c2e62271f0000cc0826b916.jpeg?ops=224_126" type="image/jpeg" /> 
+     <pubdate>
+      Fri, 04 Jan 2019 18:00:55 GMT
+     </pubdate> 
+     <guid ispermalink="false">
+      https://www.huffpost.com/entry/why-you-get-sick-on-vacation_n_5c2ce145e4b0407e908734fd
+     </guid>  
+    </item> 
+    <item> 
+     <title>8 Compact Strollers That Will Fit In An Overhead Compartment</title> 
+     <link>https://www.huffpost.com/entry/compact-strollers-that-fit-in-overhead-compartment_n_5b2402f4e4b0f9178a9ce3f4 
+     <description>
+      Compact strollers perfect for travel.
+     </description> 
+     <content:encoded>
+      Compact strollers perfect for travel.
+     </content:encoded> 
+     <enclosure url="http://img.huffingtonpost.com/asset/5b240a622200003000eeb9d8.jpeg?ops=224_126" type="image/jpeg" /> 
+     <pubdate>
+      Fri, 15 Jun 2018 20:20:07 GMT
+     </pubdate> 
+     <guid ispermalink="false">
+      https://www.huffpost.com/entry/compact-strollers-that-fit-in-overhead-compartment_n_5b2402f4e4b0f9178a9ce3f4
+     </guid>  
+    </item> 
+    <item> 
+     <title>Multipurpose Beauty Products That’ll Save Space In Your Carry-On</title> 
+     <link>https://www.huffpost.com/entry/multipurpose-beauty-products-for-travel_n_5b7d70b8e4b0cd327df8adfc 
+     <description>
+      Simplify your beauty routine *and* save space in your makeup bag to boot.
+     </description> 
+     <content:encoded>
+      Simplify your beauty routine *and* save space in your makeup bag to boot.
+     </content:encoded> 
+     <enclosure url="http://img.huffingtonpost.com/asset/5b7d7129200000dd0237a494.jpeg?cache=5uhgccan3u&amp;ops=224_126" type="image/jpeg" /> 
+     <pubdate>
+      Wed, 22 Aug 2018 16:04:30 GMT
+     </pubdate> 
+     <guid ispermalink="false">
+      https://www.huffpost.com/entry/multipurpose-beauty-products-for-travel_n_5b7d70b8e4b0cd327df8adfc
+     </guid>  
+    </item> 
+    <item> 
+     <title>Discreet Sex Toys That’ll Make It Through TSA</title> 
+     <link>https://www.huffpost.com/entry/discreet-sex-toys-for-travel_n_5b1ecee7e4b0bbb7a0e0361a 
+     <description>
+      Avoid an awkward conversation with a TSA agent.
+     </description> 
+     <content:encoded>
+      Avoid an awkward conversation with a TSA agent.
+     </content:encoded> 
+     <enclosure url="http://img.huffingtonpost.com/asset/5b1ed1d21a0000c704ce1364.png?cache=e8qmakrch9&amp;ops=224_126" type="image/jpeg" /> 
+     <pubdate>
+      Mon, 11 Jun 2018 20:42:42 GMT
+     </pubdate> 
+     <guid ispermalink="false">
+      https://www.huffpost.com/entry/discreet-sex-toys-for-travel_n_5b1ecee7e4b0bbb7a0e0361a
+     </guid>  
+    </item> 
+    <item> 
+     <title>10 Of The Best Airbnbs In Carolina, Puerto Rico</title> 
+     <link>https://www.huffpost.com/entry/10-of-the-best-airbnbs-in-carolina-puerto-rico_l_5c6d84f8e4b0e37a1ed3f155 
+     <description>
+      Airbnb bookings in Carolina, Puerto Rico, have increased more than 600 percent from 2018.
+     </description> 
+     <content:encoded>
+      Airbnb bookings in Carolina, Puerto Rico, have increased more than 600 percent from 2018.
+     </content:encoded> 
+     <enclosure url="http://img.huffingtonpost.com/asset/5c6da444250000580480a6c2.jpeg?cache=jcfvmoqxcw&amp;ops=224_126" type="image/jpeg" /> 
+     <pubdate>
+      Wed, 20 Feb 2019 19:56:50 GMT
+     </pubdate> 
+     <guid ispermalink="false">
+      https://www.huffpost.com/entry/10-of-the-best-airbnbs-in-carolina-puerto-rico_l_5c6d84f8e4b0e37a1ed3f155
+     </guid>  
+    </item> 
+    <item> 
+     <title>10 Of The Best Airbnbs In Monterrey, Mexico</title> 
+     <link>https://www.huffpost.com/entry/10-of-the-best-airbnbs-in-monterrey-mexico_l_5c6d750be4b0f40774caf6f8 
+     <description>
+      Fringed by mountains and full of culture, it's a destination worth adding to your list.
+     </description> 
+     <content:encoded>
+      Fringed by mountains and full of culture, it's a destination worth adding to your list.
+     </content:encoded> 
+     <enclosure url="http://img.huffingtonpost.com/asset/5c6d82872600005c03fddbfb.jpeg?ops=224_126" type="image/jpeg" /> 
+     <pubdate>
+      Wed, 20 Feb 2019 19:39:15 GMT
+     </pubdate> 
+     <guid ispermalink="false">
+      https://www.huffpost.com/entry/10-of-the-best-airbnbs-in-monterrey-mexico_l_5c6d750be4b0f40774caf6f8
+     </guid>  
+    </item> 
+    <item> 
+     <title>Is Away Luggage Really Worth It?</title> 
+     <link>https://www.huffpost.com/entry/is-away-luggage-worth-it_l_5c586578e4b00187b5539bb9 
+     <description>
+      This is the best carry-on suitcase I've ever used.
+     </description> 
+     <content:encoded>
+      This is the best carry-on suitcase I've ever used.
+     </content:encoded> 
+     <enclosure url="http://img.huffingtonpost.com/asset/5c589f3c24000096019fa69a.png?ops=224_126" type="image/jpeg" /> 
+     <pubdate>
+      Mon, 04 Feb 2019 22:40:28 GMT
+     </pubdate> 
+     <guid ispermalink="false">
+      https://www.huffpost.com/entry/is-away-luggage-worth-it_l_5c586578e4b00187b5539bb9
+     </guid>  
+    </item> 
+    <item> 
+     <title>Why Your Eiffel Tower Photos May Be Illegal</title> 
+     <link>https://www.huffpost.com/entry/illegal-photos-eiffel-tower-night_l_5c38bf78e4b0c469d76d9eb1 
+     <description>
+      Nighttime pictures of the Paris monument can violate French law.
+     </description> 
+     <content:encoded>
+      Nighttime pictures of the Paris monument can violate French law.
+     </content:encoded> 
+     <enclosure url="http://img.huffingtonpost.com/asset/5c549ab12600004502faf136.jpeg?cache=l9kqjwjwgr&amp;ops=224_126" type="image/jpeg" /> 
+     <pubdate>
+      Fri, 01 Feb 2019 21:41:59 GMT
+     </pubdate> 
+     <guid ispermalink="false">
+      https://www.huffpost.com/entry/illegal-photos-eiffel-tower-night_l_5c38bf78e4b0c469d76d9eb1
+     </guid>  
+    </item> 
+    <item> 
+     <title>The Most Romantic Hotels In The World In 2019, Revealed</title> 
+     <link>https://www.huffpost.com/entry/the-most-romantic-hotels-in-the-world-in-2019-revealed_l_5c488862e4b025aa26bf2552 
+     <description>
+      One U.S. hotel made the list.
+     </description> 
+     <content:encoded>
+      One U.S. hotel made the list.
+     </content:encoded> 
+     <enclosure url="http://img.huffingtonpost.com/asset/5c48b1fd25000031007db812.png?ops=224_126" type="image/jpeg" /> 
+     <pubdate>
+      Wed, 23 Jan 2019 19:12:37 GMT
+     </pubdate> 
+     <guid ispermalink="false">
+      https://www.huffpost.com/entry/the-most-romantic-hotels-in-the-world-in-2019-revealed_l_5c488862e4b025aa26bf2552
+     </guid>  
+    </item> 
+    <item> 
+     <title>The Best Hotels In The World In 2019, According To Travelers</title> 
+     <link>https://www.huffpost.com/entry/the-best-hotels-in-the-world-in-2019-revealed_l_5c478b44e4b083c46d6365b8 
+     <description>
+      Get ready to trigger your wanderlust.
+     </description> 
+     <content:encoded>
+      Get ready to trigger your wanderlust.
+     </content:encoded> 
+     <enclosure url="http://img.huffingtonpost.com/asset/5c478f593600006e06680d28.png?ops=224_126" type="image/jpeg" /> 
+     <pubdate>
+      Wed, 23 Jan 2019 11:00:28 GMT
+     </pubdate> 
+     <guid ispermalink="false">
+      https://www.huffpost.com/entry/the-best-hotels-in-the-world-in-2019-revealed_l_5c478b44e4b083c46d6365b8
+     </guid>  
+    </item> 
+    <item> 
+     <title>15 State Parks You Can Visit During The Government Shutdown</title> 
+     <link>https://www.huffpost.com/entry/state-parks-government-shutdown_n_5c3cafd1e4b0e0baf53f9cac 
+     <description>
+      While many national parks have been forced to close, there are great state-run alternatives.
+     </description> 
+     <content:encoded>
+      While many national parks have been forced to close, there are great state-run alternatives.
+     </content:encoded> 
+     <enclosure url="http://img.huffingtonpost.com/asset/5c3cfbd83600004f0068050b.jpeg?cache=vz3hc4ntbg&amp;ops=224_126" type="image/jpeg" /> 
+     <pubdate>
+      Tue, 15 Jan 2019 21:37:00 GMT
+     </pubdate> 
+     <guid ispermalink="false">
+      https://www.huffpost.com/entry/state-parks-government-shutdown_n_5c3cafd1e4b0e0baf53f9cac
+     </guid>  
+    </item> 
+    <item> 
+     <title>Is January Really The Best Month To Book Cheap Flights?</title> 
+     <link>https://www.huffpost.com/entry/january-best-month-cheap-flights_n_5c37cca1e4b0c469d76c86f6 
+     <description>
+      Here's what you should consider to make sure you're really getting the best travel deal.
+     </description> 
+     <content:encoded>
+      Here's what you should consider to make sure you're really getting the best travel deal.
+     </content:encoded> 
+     <enclosure url="http://img.huffingtonpost.com/asset/5c38b1093b00003300688982.jpeg?cache=5yfb5t7kit&amp;ops=224_126" type="image/jpeg" /> 
+     <pubdate>
+      Fri, 11 Jan 2019 17:21:32 GMT
+     </pubdate> 
+     <guid ispermalink="false">
+      https://www.huffpost.com/entry/january-best-month-cheap-flights_n_5c37cca1e4b0c469d76c86f6
+     </guid>  
+    </item> 
+    <item> 
+     <title>Disneyland Fans Are Not Happy About The Latest Price Hikes</title> 
+     <link>https://www.huffpost.com/entry/disneyland-price-increase-outrage_n_5c37729de4b05cb31c4058b2 
+     <description>
+      But it's not clear that raising ticket costs will keep people away from the Anaheim, California, park.
+     </description> 
+     <content:encoded>
+      But it's not clear that raising ticket costs will keep people away from the Anaheim, California, park.
+     </content:encoded> 
+     <enclosure url="http://img.huffingtonpost.com/asset/5c37a4a623000030001f8c06.jpeg?cache=s04f2xc2cw&amp;ops=224_126" type="image/jpeg" /> 
+     <pubdate>
+      Thu, 10 Jan 2019 23:30:56 GMT
+     </pubdate> 
+     <guid ispermalink="false">
+      https://www.huffpost.com/entry/disneyland-price-increase-outrage_n_5c37729de4b05cb31c4058b2
+     </guid>  
+    </item> 
+    <item> 
+     <title>Here's How You Can Book A Trip For Just $1</title> 
+     <link>https://www.huffpost.com/entry/how-you-can-book-a-trip-for-just-1_n_5c2f7ef2e4b0407e908b031b 
+     <description>
+      Book now, pay later.
+     </description> 
+     <content:encoded>
+      Book now, pay later.
+     </content:encoded> 
+     <enclosure url="http://img.huffingtonpost.com/asset/5c2fc21923000033003ca5ed.jpeg?ops=224_126" type="image/jpeg" /> 
+     <pubdate>
+      Fri, 04 Jan 2019 20:40:15 GMT
+     </pubdate> 
+     <guid ispermalink="false">
+      https://www.huffpost.com/entry/how-you-can-book-a-trip-for-just-1_n_5c2f7ef2e4b0407e908b031b
+     </guid>  
+    </item> 
+    <item> 
+     <title>FYI, Direct Flights And Nonstop Flights Are Different</title> 
+     <link>https://www.huffpost.com/entry/direct-flight-nontstop-flight-difference_n_5bfdab51e4b0a46950dcdfb8 
+     <description>
+      Understanding these two terms can help you make better booking choices.
+     </description> 
+     <content:encoded>
+      Understanding these two terms can help you make better booking choices.
+     </content:encoded> 
+     <enclosure url="http://img.huffingtonpost.com/asset/5bfd9a1a1d00002c02313664.jpeg?cache=ra2bbids2t&amp;ops=224_126" type="image/jpeg" /> 
+     <pubdate>
+      Thu, 29 Nov 2018 10:45:14 GMT
+     </pubdate> 
+     <guid ispermalink="false">
+      https://www.huffpost.com/entry/direct-flight-nontstop-flight-difference_n_5bfdab51e4b0a46950dcdfb8
+     </guid>  
+    </item> 
+    <item> 
+     <title>Travel Deals Tuesday: 2018 Black Friday And Cyber Monday Travel Deals</title> 
+     <link>https://www.huffpost.com/entry/black-friday-cyber-monday-airline-travel-deals_n_5bef2846e4b0f32bd5898f1d 
+     <description>
+      Best Travel Deals on Black Friday, Cyber Monday and Travel Deals Tuesday ✈️
+     </description> 
+     <content:encoded>
+      Best Travel Deals on Black Friday, Cyber Monday and Travel Deals Tuesday ✈️
+     </content:encoded> 
+     <enclosure url="http://img.huffingtonpost.com/asset/5bf1734a240000040499b95b.jpeg?ops=224_126" type="image/jpeg" /> 
+     <pubdate>
+      Mon, 19 Nov 2018 19:09:56 GMT
+     </pubdate> 
+     <guid ispermalink="false">
+      https://www.huffpost.com/entry/black-friday-cyber-monday-airline-travel-deals_n_5bef2846e4b0f32bd5898f1d
+     </guid>  
+    </item> 
+   </channel> 
+  </rss> 
+ </body>
+</html>
